@@ -1,9 +1,9 @@
 package game
 
 /**
- * has the methods for interacting with the game and such
+ * has the methods for running the game
  */
-class IO {
+class Game {
 
   def test() {
     println("this is a test")
